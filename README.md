@@ -48,6 +48,5 @@ It's important to note that the choice of the neural network architecture and hy
 | **1.0**   | 0.67      | 0.54   | 0.60     | 408     |
 
 # Accuracy for the Model fron Confusion Matrix.
-| **Accuracy** |           |        | 0.79     | 1407    |
-| **Macro Avg** | 0.75      | 0.72   | 0.73     | 1407    |
-| **Weighted Avg** | 0.78   | 0.79   | 0.78     | 1407    |
+# 79%
+
